@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 62210d291e5956043844970ce98f8743
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blink_l_0
+    100002: blink_r_0
+    100004: //RootNode
+    100006: escalade_0_0
+    100008: escalade_0_0.001
+    100010: escalade_0_0.002
+    100012: escalade_0_0.003
+    100014: escalade_0_0.004
+    100016: escalade_0_0.005
+    100018: escalade_0_0.006
+    100020: escalade_0_0.007
+    100022: escalade_0_0.008
+    100024: escalade_0_0.009
+    100026: escalade_b_0
+    100028: escalade_g_0
+    100030: escalade_i_0
+    100032: generic_wheel_1
+    100034: generic_wheel_1.001
+    100036: generic_wheel_1.002
+    100038: generic_wheel_1.003
+    100040: glass_far_0
+    100042: glass_stop_0
+    100044: led_0
+    100046: led_rear_0
+    400000: blink_l_0
+    400002: blink_r_0
+    400004: //RootNode
+    400006: escalade_0_0
+    400008: escalade_0_0.001
+    400010: escalade_0_0.002
+    400012: escalade_0_0.003
+    400014: escalade_0_0.004
+    400016: escalade_0_0.005
+    400018: escalade_0_0.006
+    400020: escalade_0_0.007
+    400022: escalade_0_0.008
+    400024: escalade_0_0.009
+    400026: escalade_b_0
+    400028: escalade_g_0
+    400030: escalade_i_0
+    400032: generic_wheel_1
+    400034: generic_wheel_1.001
+    400036: generic_wheel_1.002
+    400038: generic_wheel_1.003
+    400040: glass_far_0
+    400042: glass_stop_0
+    400044: led_0
+    400046: led_rear_0
+    2100000: 06 - Default
+    2100002: tire [spec].001
+    2100004: ctsv_wheel [env_.001
+    2100006: freio [env_4,spe.001
+    2100008: freio [env_14,sp.001
+    2100010: glass_faruri.001
+    2100012: glass_stopuri.001
+    2100014: led_light.001
+    2100016: color.001
+    2100018: glass_beffio.001
+    2100020: interior.001
+    2100022: led_rear.001
+    2300000: blink_l_0
+    2300002: blink_r_0
+    2300004: escalade_0_0
+    2300006: escalade_0_0.001
+    2300008: escalade_0_0.002
+    2300010: escalade_0_0.003
+    2300012: escalade_0_0.004
+    2300014: escalade_0_0.005
+    2300016: escalade_0_0.006
+    2300018: escalade_0_0.007
+    2300020: escalade_0_0.008
+    2300022: escalade_0_0.009
+    2300024: escalade_b_0
+    2300026: escalade_g_0
+    2300028: escalade_i_0
+    2300030: generic_wheel_1
+    2300032: generic_wheel_1.001
+    2300034: generic_wheel_1.002
+    2300036: generic_wheel_1.003
+    2300038: glass_far_0
+    2300040: glass_stop_0
+    2300042: led_0
+    2300044: led_rear_0
+    3300000: blink_l_0
+    3300002: blink_r_0
+    3300004: escalade_0_0
+    3300006: escalade_0_0.001
+    3300008: escalade_0_0.002
+    3300010: escalade_0_0.003
+    3300012: escalade_0_0.004
+    3300014: escalade_0_0.005
+    3300016: escalade_0_0.006
+    3300018: escalade_0_0.007
+    3300020: escalade_0_0.008
+    3300022: escalade_0_0.009
+    3300024: escalade_b_0
+    3300026: escalade_g_0
+    3300028: escalade_i_0
+    3300030: generic_wheel_1
+    3300032: generic_wheel_1.001
+    3300034: generic_wheel_1.002
+    3300036: generic_wheel_1.003
+    3300038: glass_far_0
+    3300040: glass_stop_0
+    3300042: led_0
+    3300044: led_rear_0
+    4300000: escalade_0_0.009
+    4300002: generic_wheel_1.003
+    4300004: generic_wheel_1.002
+    4300006: generic_wheel_1.001
+    4300008: generic_wheel_1
+    4300010: glass_far_0
+    4300012: glass_stop_0
+    4300014: blink_l_0
+    4300016: blink_r_0
+    4300018: escalade_0_0
+    4300020: escalade_b_0
+    4300022: escalade_g_0
+    4300024: escalade_i_0
+    4300026: led_0
+    4300028: led_rear_0
+    4300030: escalade_0_0.001
+    4300032: escalade_0_0.002
+    4300034: escalade_0_0.003
+    4300036: escalade_0_0.004
+    4300038: escalade_0_0.005
+    4300040: escalade_0_0.006
+    4300042: escalade_0_0.007
+    4300044: escalade_0_0.008
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

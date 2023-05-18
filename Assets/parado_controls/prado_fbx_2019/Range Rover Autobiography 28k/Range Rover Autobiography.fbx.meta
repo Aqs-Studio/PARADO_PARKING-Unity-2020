@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 532ed44d4b5e9384e9649a44379f4356
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Add
+    100002: Add.004
+    100004: Add.006
+    100006: caliper.000
+    100008: caliper.001
+    100010: caliper.002
+    100012: caliper.003
+    100014: Chassis
+    100016: Headlights
+    100018: Interior
+    100020: Led_Back_R
+    100022: Led_Front0
+    100024: Paint
+    100026: //RootNode
+    100028: Rearlights
+    100030: wheel.000
+    100032: wheel.001
+    100034: wheel.002
+    100036: wheel.003
+    100038: Windshield
+    400000: Add
+    400002: Add.004
+    400004: Add.006
+    400006: caliper.000
+    400008: caliper.001
+    400010: caliper.002
+    400012: caliper.003
+    400014: Chassis
+    400016: Headlights
+    400018: Interior
+    400020: Led_Back_R
+    400022: Led_Front0
+    400024: Paint
+    400026: //RootNode
+    400028: Rearlights
+    400030: wheel.000
+    400032: wheel.001
+    400034: wheel.002
+    400036: wheel.003
+    400038: Windshield
+    2100000: mirror
+    2100002: parts_garage
+    2100004: Material.001
+    2100006: tire_disk_etrier.001
+    2100008: Parts.001
+    2100010: CarPaint
+    2100012: glass_standard
+    2100014: Material.002
+    2100016: red.001
+    2100018: Interior_mat
+    2100020: Xenon
+    2100022: FrameBlack
+    2100024: chrome
+    2300000: Add
+    2300002: Add.004
+    2300004: Add.006
+    2300006: caliper.000
+    2300008: caliper.001
+    2300010: caliper.002
+    2300012: caliper.003
+    2300014: Chassis
+    2300016: Headlights
+    2300018: Interior
+    2300020: Led_Back_R
+    2300022: Led_Front0
+    2300024: Paint
+    2300026: Rearlights
+    2300028: wheel.000
+    2300030: wheel.001
+    2300032: wheel.002
+    2300034: wheel.003
+    2300036: Windshield
+    3300000: Add
+    3300002: Add.004
+    3300004: Add.006
+    3300006: caliper.000
+    3300008: caliper.001
+    3300010: caliper.002
+    3300012: caliper.003
+    3300014: Chassis
+    3300016: Headlights
+    3300018: Interior
+    3300020: Led_Back_R
+    3300022: Led_Front0
+    3300024: Paint
+    3300026: Rearlights
+    3300028: wheel.000
+    3300030: wheel.001
+    3300032: wheel.002
+    3300034: wheel.003
+    3300036: Windshield
+    4300000: Add.006
+    4300002: Add.004
+    4300004: wheel.002
+    4300006: caliper.002
+    4300008: wheel.001
+    4300010: caliper.001
+    4300012: caliper.000
+    4300014: wheel.000
+    4300016: caliper.003
+    4300018: wheel.003
+    4300020: Rearlights
+    4300022: Paint
+    4300024: Windshield
+    4300026: Led_Front0
+    4300028: Led_Back_R
+    4300030: Interior
+    4300032: Headlights
+    4300034: Chassis
+    4300036: Add
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
